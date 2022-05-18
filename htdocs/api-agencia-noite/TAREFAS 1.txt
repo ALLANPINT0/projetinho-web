@@ -1,0 +1,57 @@
+TAREFA #1:
+Observe o modelo abaixo, nota-se que ele possui Fonte e Link. 
+Modifique o projeto para considerar esses dois parâmetros (Fonte e Link) e teste usando a extensão RESTED do Firefox.
+
+TAREFA #2:
+Usando essa API, crie uma página com HTML, CSS e Javascript para mostrar a lista de notícias 
+de acordo com o design de lista de notícias do site (clone de interface): 
+https://www.google.com/search?q=noticias+de+tecnologia&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjTup2KoL_3AhU8SLgEHQb8DboQ_AUoAXoECAEQAw&biw=1536&bih=770&dpr=1.25
+
+TAREFA #3:
+Ainda usando a API, construa uma página com HTML, CSS e Javascript contendo um formulário que
+seja capaz de enviar dados a serem armazenados no banco de dados.
+Nessa mesma página, você deverá colocar uma TABELA contendo os dados que já estão no banco de dados.
+
+TAREFA #4:
+Usando a API, construa uma outra página HTML para editar os dados OU adeque a página de inserção
+para edição de dados também.
+
+TAREFA #5:
+Usando a API, programe a funcionalidade de exclusão de dados diretamente na tabela criada na TAREFA 3.
+É obrigatório mostrar uma mensagem de confirmação antes da exclusão do dado.
+
+TAREFA #6:
+Modifique o layout do site usando Bootstrap.
+
+
+
+
+
+
+##############
+### MODELO ###
+##############
+
+Fonte: Yahoo Finanças
+Título: Relembre negócios bilionários envolvendo empresas de tecnologia
+Texto: A compra do Twitter pelo empresário Elon Musk marca mais um capítulo de negócios bilionários envolvendo o setor de tecnologia.
+Quando: 11 horas atrás
+Link: https://br.financas.yahoo.com/noticias/relembre-negocios-bilionarios-envolvendo-empresas-de-tecnologia-080018068.html
+
+Fonte: Tecnoblog
+Título: Samsung, Porto e mais empresas oferecem capacitação grátis em tecnologia
+Programas de capacitação trazem oportunidades para quem deseja se aprofundar em tecnologia; USP vai abrir inscrições para mestrado.
+Quando: 2 dias atrás
+Link: https://tecnoblog.net/noticias/2022/04/29/samsung-porto-e-mais-empresas-oferecem-capacitacao-gratis-em-tecnologia/
+
+Fonte: TNOnline
+Título: Tecnologia é novo horizonte do trabalho no campo e na cidade
+Texto: Dia do Trabalho serve de reflexão para as transformações do mercado do trabalho para as próximas décadas no Brasil.
+Quando: 5 horas atrás
+Link: https://tnonline.uol.com.br/noticias/apucarana/tecnologia-e-novo-horizonte-do-trabalho-no-campo-e-na-cidade-639197
+
+Fonte: UOL
+Título: À prova de balas: entenda a tecnologia por trás do carro-forte
+Texto: Mas você sabe quais são as tecnologias usadas para que os carros-fortes realizem o seu trabalho com segurança? Confira em detalhes a seguir.
+Quando: 3 dias atrás
+Link: https://www.uol.com.br/tilt/noticias/redacao/2022/04/28/a-prova-de-balas-entenda-a-tecnologia-por-tras-dos-carros-fortes.htm

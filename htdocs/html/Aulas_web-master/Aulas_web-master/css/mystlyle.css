@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom, #292b31, #4b0f29);
+    margin: 0;
+    
+}
+
+header{
+    background: linear-gradient(to bottom, #262329, #141f3d);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.Content{
+    padding: 20px 30px 2px 30px;
+   background-color: rgb(216, 216, 207);
+   border-radius: 10px;
+   margin: 20px 100px 20px 100px ;
+}
+
+.Content li{
+    margin: 10px;
+}
+
+.topico{
+    font-weight: bold;
+}
+
+.H{
+    padding-left: 10em;
+}
+
+.Tabela01{
+    padding-left: 10em;
+}
+
+.hora{
+    font-size: 16px;
+}
